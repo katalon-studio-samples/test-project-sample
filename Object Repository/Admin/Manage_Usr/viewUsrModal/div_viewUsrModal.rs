@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_viewUsrModal</name>
+   <tag></tag>
+   <elementGuidId>248d61c1-fcea-4d77-b395-66dc4c685bed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.n-card.n-card--bordered.n-modal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8e746c9-8260-4860-bd12-4f45d630b204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>n-card n-card--bordered n-modal</value>
+      <webElementGuid>a54be364-3bbd-4788-b034-0de012e02dba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>segmented</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>5e2fdd7e-159c-44e0-a8aa-f9e9fdeb95fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>檢視使用者權限姓名手機信箱編輯1Wonderwall0900123456123@gmail.com編輯1確認</value>
+      <webElementGuid>c1ef9a61-6168-4775-9e24-a271f0eac7c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;n-modal-container&quot;]/div[@class=&quot;n-modal-body-wrapper&quot;]/div[@class=&quot;n-scrollbar&quot;]/div[@class=&quot;n-scrollbar-container&quot;]/div[@class=&quot;n-scrollbar-content n-modal-scroll-content&quot;]/div[@class=&quot;n-card n-card--bordered n-modal&quot;]</value>
+      <webElementGuid>b15063f2-6e21-4f51-af10-77ca5a7ce5a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[9]</value>
+      <webElementGuid>be2f591c-d7e6-41db-8910-c7b61121c492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::div[9]</value>
+      <webElementGuid>7987c31c-9abf-4a30-abf6-308861cab779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div[3]</value>
+      <webElementGuid>4b518aee-250f-4666-8b92-59273c4cb4cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '檢視使用者權限姓名手機信箱編輯1Wonderwall0900123456123@gmail.com編輯1確認' or . = '檢視使用者權限姓名手機信箱編輯1Wonderwall0900123456123@gmail.com編輯1確認')]</value>
+      <webElementGuid>2bd64cc8-b161-40ac-9cd4-08f950a379c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
