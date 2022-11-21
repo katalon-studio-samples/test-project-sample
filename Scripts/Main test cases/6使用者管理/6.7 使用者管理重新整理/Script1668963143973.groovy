@@ -17,3 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('常用case/登入成功(系統管理員)'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.refresh()
+
+assert true
+

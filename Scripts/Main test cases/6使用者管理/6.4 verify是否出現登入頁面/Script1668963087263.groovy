@@ -17,3 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Main test cases/6使用者管理/common-openManageusrPage'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Admin/Manage_Usr/button_logout'))
+
+WebUI.delay(2)
+
+WebUI.verifyElementPresent(findTestObject('Login_Page/div_loginbox'), 0)
+
+WebUI.verifyElementPresent(findTestObject('Login_Page/div_guidebar'), 0)
+

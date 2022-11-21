@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Main test cases/3登入/common-openLoginPage'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('常用case/openWeb'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Login_Page/input__account'), 'admin@mail.com')
 

@@ -27,5 +27,5 @@ WebUI.verifyElementPresent(findTestObject('Admin/Manage_Usr/div_guidebar'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Admin/Manage_Usr/div_usrManageBox'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Admin/Manage_Usr/div_usrManageBox'), 0)
+WebUI.verifyElementPresent(findTestObject('Admin/Manage_Usr/div_buttonBox'), 0)
 

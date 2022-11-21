@@ -17,3 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.callTestCase(findTestCase('Main test cases/6使用者管理/common-openManageusrPage'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.click(findTestObject('Admin/Manage_Usr/button_addUsr'))
+
+WebUI.verifyElementPresent(findTestObject('Admin/Manage_Usr/addUsrModal/div_addUsrModal'), 0)
+
