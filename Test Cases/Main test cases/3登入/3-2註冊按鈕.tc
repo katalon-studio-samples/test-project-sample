@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify是否出現註冊頁面</description>
+   <name>3-2註冊按鈕</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16eebe26-6f9e-4eb6-803e-7ae2f130d605</testCaseGuid>
+</TestCaseEntity>

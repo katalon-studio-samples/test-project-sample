@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify 是否能正常顯示全台所有學校</description>
+   <name>1-7就讀學校下拉式選單</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0ffb810-f99a-497f-a237-6ab75c863f4a</testCaseGuid>
+</TestCaseEntity>

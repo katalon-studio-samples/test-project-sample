@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>停留原頁。密碼Input 欄下方顯示 「信箱尚未驗證」</description>
+   <name>3-8登入失敗(已存在之帳號未驗證)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>480b4b82-6721-4fc7-8b2d-204c32566cea</testCaseGuid>
+</TestCaseEntity>

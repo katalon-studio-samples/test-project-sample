@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>欄位空白且送出無發生錯誤</description>
+   <name>1-9就讀學校下拉式選單(選擇空值)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecb898ea-ac7c-4e9a-b752-dea85bc7be26</testCaseGuid>
+</TestCaseEntity>

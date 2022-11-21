@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>身分證字 Input 欄下方顯示顯示「已使用過此組身分證字號」訊息</description>
+   <name>1-5註冊按鈕(已存在相同身分證字號)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf79849d-9ca8-41f5-adea-8b74211a6dd1</testCaseGuid>
+</TestCaseEntity>

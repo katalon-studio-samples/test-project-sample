@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8.5 權限下拉式選單(verify 是否能正常顯示所有權限)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0503d97e-f64d-4dfe-b81b-5d52396cdfa4</testCaseGuid>
+</TestCaseEntity>

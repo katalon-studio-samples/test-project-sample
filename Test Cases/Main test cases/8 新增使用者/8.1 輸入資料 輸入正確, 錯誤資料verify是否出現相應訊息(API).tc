@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8.1 輸入資料 輸入正確, 錯誤資料verify是否出現相應訊息(API)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d7dc81b-01d5-400c-bfd6-b260bbd0000f</testCaseGuid>
+</TestCaseEntity>

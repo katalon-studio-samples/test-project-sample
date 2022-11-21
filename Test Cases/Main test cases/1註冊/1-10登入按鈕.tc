@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify是否出現登入頁面</description>
+   <name>1-10登入按鈕</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da9313c9-7934-46f4-a7b2-20e1a1aea451</testCaseGuid>
+</TestCaseEntity>

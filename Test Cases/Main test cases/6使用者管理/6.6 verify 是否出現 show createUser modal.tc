@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6.6 verify 是否出現 show createUser modal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0da2499e-f03a-4529-8d35-5843d7a3faf2</testCaseGuid>
+</TestCaseEntity>
