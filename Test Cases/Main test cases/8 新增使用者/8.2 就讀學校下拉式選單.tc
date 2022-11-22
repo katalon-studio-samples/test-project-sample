@@ -5,4 +5,17 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>167f752d-a232-4472-9b7e-5d8accc8f3ee</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5deb1f18-a597-4574-834e-9fb343bc43a2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['NTNU', 'DTU', 'H-SU']</defaultValue>
+      <description></description>
+      <id>739e7437-25ed-40db-980d-73e023d95560</id>
+      <masked>false</masked>
+      <name>school</name>
+   </variable>
 </TestCaseEntity>

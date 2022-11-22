@@ -17,13 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Main test cases/8 新增使用者/common-openAdduserModal'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Admin/Manage_Usr/addUsrModal/div__school'))
-
-for (def index : (0..2)) {
-    WebUI.verifyTextPresent(school[index], false)
-}
-
-WebUI.verifyTextPresent(school[index], false)
-

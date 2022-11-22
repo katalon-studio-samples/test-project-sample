@@ -5,4 +5,17 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>0503d97e-f64d-4dfe-b81b-5d52396cdfa4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17bf8abb-c557-427e-9616-cfcf12a055bf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>['APPLICANT', 'ADMIN', 'PROGRAMMANAGER', 'REVIEWER']</defaultValue>
+      <description></description>
+      <id>8fb1f018-07ea-4039-9fdb-1c2a476b2184</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
 </TestCaseEntity>
